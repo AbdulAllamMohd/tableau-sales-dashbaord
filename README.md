@@ -28,7 +28,7 @@ This project analyzes sales data using Tableau to identify trends, top-performin
 
 \## Dashboard Preview
 
-!\[Dashboard](tableau dashboard.png)
+![Dashboard](dashboard.png)
 
 
 
